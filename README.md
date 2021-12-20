@@ -1,1 +1,1 @@
-# StudentApp sort 기능 구현
+# StudentApp sort
